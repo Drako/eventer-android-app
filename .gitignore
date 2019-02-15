@@ -1,6 +1,6 @@
 # idea
 *.iml
-.idea/
+.idea/*
 !.idea/runConfigurations/
 !.idea/codeStyles/
 
