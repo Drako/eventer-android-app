@@ -1,0 +1,14 @@
+# idea
+*.iml
+.idea/
+!.idea/runConfigurations/
+!.idea/codeStyles/
+
+# gradle
+.gradle/
+
+# build
+build/
+
+# host specific
+local.properties
