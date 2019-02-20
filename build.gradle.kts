@@ -58,7 +58,7 @@ tasks {
   }
 
   dokka {
-    outputFormat = "html"
+    outputFormat = "jekyll"
     outputDirectory = "$buildDir/../docs/"
     jdkVersion = 7
     linkMapping {
