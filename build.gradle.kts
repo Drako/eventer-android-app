@@ -59,7 +59,7 @@ tasks {
 
   dokka {
     outputFormat = "html"
-    outputDirectory = "$buildDir/kdoc"
+    outputDirectory = "$buildDir/../docs/"
     jdkVersion = 7
     linkMapping {
       dir = "src/main/kotlin"
