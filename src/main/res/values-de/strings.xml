@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="titlePreferences">Einstellungen</string>
+  <string name="titleLocation">Standort</string>
+  <string name="entryLocationAsk">Immer nachfragen</string>
+  <string name="entryLocationFixed">Fester Standort</string>
+  <string name="entryLocationCurrent">Mein aktueller Standort (erfordert Berechtigung)</string>
+  <string name="titleFixedLocation">Fester Standort</string>
+</resources>

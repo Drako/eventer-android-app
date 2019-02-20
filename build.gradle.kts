@@ -29,6 +29,9 @@ dependencies {
 
   implementation(ktxCoroutines("core"))
   implementation(ktxCoroutines("android"))
+  //implementation(ktxCoroutines("play-services"))
+
+  //implementation(google(PlayService.LOCATION))
 }
 
 android {

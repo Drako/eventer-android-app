@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="entriesLocation">
+    <!--<item>@string/entryLocationAsk</item>-->
+    <!--<item>@string/entryLocationFixed</item>-->
+    <item>@string/entryLocationCurrent</item>
+    <item>Chemnitz</item>
+    <item>Zwickau</item>
+    <item>Leipzig</item>
+    <item>Dresden</item>
+  </string-array>
+  <string-array name="entryValuesLocation">
+    <!--<item>ask</item>-->
+    <!--<item>fixed</item>-->
+    <item>Current</item>
+    <item>Chemnitz</item>
+    <item>Zwickau</item>
+    <item>Leipzig</item>
+    <item>Dresden</item>
+  </string-array>
+</resources>

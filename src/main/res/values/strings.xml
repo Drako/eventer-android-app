@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="titleApp">Eventer</string>
+  <string name="titleApp" translatable="false">Eventer</string>
   <string name="titlePreferences">Preferences</string>
+  <string name="titleLocation">Location</string>
+  <string name="entryLocationAsk">Always ask</string>
+  <string name="entryLocationFixed">Fixed location</string>
+  <string name="entryLocationCurrent">My current location (requires permission)</string>
+  <string name="titleFixedLocation">Fixed location</string>
 </resources>

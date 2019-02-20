@@ -1,1 +1,19 @@
-<androidx.preference.PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto" />
+<androidx.preference.PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+  <androidx.preference.ListPreference
+    app:defaultValue="Current"
+    app:entries="@array/entriesLocation"
+    app:entryValues="@array/entryValuesLocation"
+    app:icon="@drawable/ic_map_marker_alt"
+    app:key="location"
+    app:title="@string/titleLocation"
+    app:useSimpleSummaryProvider="true" />
+
+  <!--
+  <androidx.preference.EditTextPreference
+    app:icon="@drawable/ic_map_marker_question"
+    app:isPreferenceVisible="false"
+    app:key="fixedLocation"
+    app:title="@string/titleFixedLocation"
+    app:useSimpleSummaryProvider="true" />
+    -->
+</androidx.preference.PreferenceScreen>
